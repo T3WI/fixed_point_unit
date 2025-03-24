@@ -23,7 +23,7 @@ module my_fpu(
     output [39:0] out,
     input [31:0] in1,
     input [31:0] in2,
-    input sel
+    input [3:0] sel
     );
     import fpu_package::*;                          // Import select info
     assign out = (sel == ADD) ? in1 + in2 : in1 - in2;
