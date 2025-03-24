@@ -5,7 +5,7 @@
 // Create Date: 03/23/2025 09:18:27 PM
 // Design Name: 
 // Module Name: my_fpu
-// Project Name: 
+// Project Name: Fixed-Point Unit
 // Target Devices: 
 // Tool Versions: 
 // Description: 
